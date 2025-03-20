@@ -1,0 +1,14 @@
+transformers
+pandas
+pymupdf
+pdf2image
+paddleocr
+torch
+torchvision
+torchaudio
+openpyxl
+datasets
+paddlepaddle
+pillow
+pytesseract
+numpy
